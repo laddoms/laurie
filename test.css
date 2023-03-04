@@ -1,0 +1,36 @@
+.aboutimage	
+	{		
+		width:500px;
+		height:250px;
+	}
+
+.aboutoverlay
+	{
+		
+		width:45%;
+		text-align:center;
+		margin-top:-35%;
+		margin-left:30%;
+		transition: .5s ease;
+		opacity:0;
+	}
+.aboutimage:hover .aboutoverlay
+	{
+		opacity: 1;
+	}
+.aboutoverlay a
+	{
+		text-decoration:none;
+		color:black;
+	}
+
+.aboutimage:hover .image 
+	{
+		opacity: 0.3;
+	}
+
+#floor  
+	{
+		float:left;
+		margin-left:25%;
+	}  /*this screws up the about section overlay. It works here but not in the about.inc.php page with all the other css. 

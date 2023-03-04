@@ -1,0 +1,113 @@
+	/*/////////////    cell phone size   ////////*/
+											
+											
+@media screen and (max-width: 600px) 
+	{
+		 body 
+			{
+				background-color: white;
+				color:black;
+				
+			}
+		#wrapper
+			{
+				width:100%;  	
+				max-width:600px;
+				background-image: none;
+				box-sizing: border-box;
+				overflow:hidden;
+				font-size:10px;
+			}
+		#header
+			{
+				color:black;
+				height:9%;
+				margin-left:30%;
+			}
+		#titleh1
+			{
+				color:black;  
+			}
+		#titleul
+			{
+				display:none;
+			}
+		
+		#promotingH1
+			{
+				font-size:15px;
+				text-align:center;
+				line-height:1.5em;
+			}
+		#crowd, #crowdP
+			{
+				display:none;
+			}
+		nav
+			{
+				margin-left:0%;
+			}
+		nav a
+			{
+				font-size:12px;
+				color:blue;
+			}
+		nav li
+			{
+			    display:inline;
+				padding-right:10px;
+			}
+		.portfolioimage
+			{
+				margin:20%; 
+			}
+		.portfolioimage a
+			{
+				text-decoration:none;
+				color:white;
+			}
+		.portfoliooverlay
+			{
+				color:white;
+				border:1px solid white;
+				width:75%;
+				font-size:15px;
+				text-align:center;
+				margin-top:-50%;
+				margin-left:15%;
+			}
+		#shelfimage
+			{
+				max-width:55%;
+				margin-left:23%;
+			}
+		#aboutaside
+			{	
+				text-align:center;
+				margin-left:4%;
+				font-size:1.3em;
+			}
+		#history
+			{
+				text-align:center;
+				font-size:1.3em;
+				line-height:1.7em;
+			}
+		#projects
+			{
+				text-align:center;
+			}
+		#projects img
+			{
+				width:75%;
+			}
+		.aboutoverlay
+			{
+				width:45%;
+				text-align:center;
+				margin-top:1%;
+				margin-left:33%;
+			}
+		
+	}
+	

@@ -1,0 +1,1614 @@
+									@media screen and (max-width: 767px)
+												
+												{
+													body 
+														{
+															font-family: 'DM Serif Text', serif;
+															background-color: #e9e7ee;
+															font-size: 1.2em;
+															line-height:1.2em;
+														}
+													head
+														{
+															width:100%; 
+															
+														}
+													#wrapper
+														{
+															width:100%;  	
+															max-width:767px;
+															
+															box-sizing: border-box;
+															padding-top:4%;
+															overflow:scroll;
+														}
+														
+													#header
+														{
+															color:#2f2e32; 
+															height:9%; 
+															width:100%; 
+															text-align:center; 
+														}
+													#titleul
+														{
+															list-style-type: none;
+															width:100%;
+															text-align:center;
+															margin-left:-8%;
+														}
+													#titleul li
+														{
+															display:inline;																			
+														}
+													nav
+														{
+															margin-top:1%;
+															width:100%;
+														}	
+													nav a, nav li
+														{
+															color:#f2e32;
+															text-decoration:none;
+															font-weight:bold;
+															/*font-size:100%;*/
+															padding:1%;  
+															display:inline;
+														}	
+													#promotingH1
+														{
+															color:#2f2e32;
+															font-weight:bolder;
+															width:75%; 
+															line-height:1.5em;
+															text-align:center;
+															margin-left:12%;
+														}	
+													#portfolio1
+														{
+															background-color:#e9e7ee;
+															font-size:100%;
+															line-height:130%;
+															font-weight:lighter;
+															text-align:center; 
+															width:100%;
+															padding-bottom:0%;
+															color:#2f2e32;
+														}
+													#portfolio1 p 
+														{
+															width:80%;
+															margin-left:9%;
+															text-align:center;
+															font-size:1.2em;
+														}
+													#crowd
+														{
+															float:left;
+															margin-top:5%;
+															font-size:180%; 
+															width:100%;
+														}	
+													.portfolioimage	img
+														{		
+															display:block;
+															margin-left:auto;
+															margin-right:auto;
+															width:75%;
+															border: 3px inset gray;
+														}
+													
+													.portfoliooverlay
+														{
+															
+															width:100%;
+															text-align:center;
+															margin-right:auto;
+															margin-left:auto%;
+															margin-bottom:5%;
+														}
+													.portfolioimage a
+														{
+															color:black;
+														}
+												
+													.portfoliooverlay p
+														{
+															font-size:1.2em;
+														}
+													aside
+														{
+															width:100%;
+															float:right;
+															margin-right:1%;
+															text-align:center;
+															line-height:120%;
+														}
+													
+													#aboutme img
+														{
+															display:block;
+															margin-left:auto;
+															margin-right:auto;
+															width:55%;
+															border: 3px inset gray;
+														}
+													#history
+														{
+															width:70%;
+															text-align:center;
+															margin-left:auto;
+															margin-right:auto;
+														}	
+													#history h1
+														{
+															line-height:1.2em;
+															margin-left:auto;
+															margin-right:auto;
+															text-align:center;
+														}
+													#projects
+														{
+															
+															text-align:center;
+															width:100%;		
+														}
+	
+													.aboutoverlay
+														{
+															font-weight:bold;
+															font-size:1.1em;
+															width:50%;
+															text-align:center;
+															margin-top:-160px;
+															margin-left:8.5%;
+															position:absolute;
+															border:1px solid black;
+															border-radius:10px;
+															background-color:white;
+															opacity:.5;
+														}	
+																										
+													.aboutimage	
+														{		
+															margin:15%;
+															
+														}	
+													.aboutimage img
+														{
+															border:2px solid lightgray;
+															border-style:inset;
+														
+														}
+													#carpetH2
+														{
+															display:block;
+															margin-left:auto;
+															margin-right:auto;
+															width:50%;
+															text-align:center;
+														}
+													#floorimages img 
+														{
+															display:block;
+															margin-left:auto;
+															margin-right:auto;
+															width:260px;
+															border: 3px inset gray;
+															height:220px;
+														}	
+													#floorimages  
+														{
+														  text-align: center;
+														  font-size:1.2em;
+														  text-align:center; 
+														}	
+													#gardenH2
+														{
+															display:block;
+															margin-left:auto;
+															margin-right:auto;
+															width:50%;
+															text-align:center;
+														}
+													#bathH2
+														{
+															display:block;
+															margin-left:auto;
+															margin-right:auto;
+															width:50%;
+															text-align:center;
+														}
+													#bathimages img 
+														{
+															display:block;
+															margin-left:auto;
+															margin-right:auto;
+															width:260px;
+															border: 3px inset gray;
+															height:220px;
+														}	
+													#bathimages  
+														{
+														  text-align: center;
+														  font-size:1.2em;
+														  text-align:center; 
+														}			
+													#gardenimages img 
+														{
+															display:block;
+															margin-left:auto;
+															margin-right:auto;
+															width:260px;
+															border: 3px inset gray;
+															height:220px;
+														}	
+													#gardenimages  
+														{
+														  text-align: center;
+														  font-size:1.2em;
+														  text-align:center; 
+														}			
+													#p
+														{
+															
+															width:80%;
+															line-height:1.5em;
+															font-size:1.2em;
+															text-align:center;
+															margin-left:auto;
+															margin-right:auto;
+														}		
+													#codepage
+														{
+															width:94%;
+															overflow:scroll; 
+														}														
+													.collapsible
+														{
+															
+															  margin-left: 33%;
+															  margin-bottom:5%;
+															  align-items: center;
+															  appearance: none;
+															  background-color: #FCFCFD;
+															  border-radius: 4px;
+															  border-width: 0;
+															  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+															  box-sizing: border-box;
+															  color: #36395A;
+															  cursor: pointer;
+															  display: inline-flex;
+															  font-family: "JetBrains Mono",monospace;
+															  height: 48px;
+															  justify-content: center;
+															  line-height: 1;
+															  list-style: none;
+															  overflow: hidden;
+															  padding-left: 16px;
+															  padding-right: 16px;
+															  position: relative;
+															  text-align: left;
+															  text-decoration: none;
+															  transition: box-shadow .15s,transform .15s;
+															  user-select: none;
+															  -webkit-user-select: none;
+															  touch-action: manipulation;
+															  white-space: nowrap;
+															  will-change: box-shadow,transform;
+															  font-size: 18px;
+														}
+													.collapsible:focus 
+														{
+															box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+														}
+													.collapsible:active 
+														{
+															  box-shadow: #D6D6E7 0 3px 7px inset;
+															  transform: translateY(2px);
+														}
+			
+
+													.content 
+														{
+															max-height: 0;   /* Style the collapsible content. Note: hidden by default */
+															overflow: hidden;
+															transition: max-height 3s ease-out;
+														}	
+														
+													#resume		
+														{
+															font-family: 'Fira Sans', sans-serif;
+															font-size:.9em;
+															padding:2%;
+															line-height:1.2em;														
+															background-color:#F0EFF8;
+															height:100%;
+															width:100%;
+														}	
+													#resume h2
+														{
+															line-height:1.1em;
+														}
+													footer 
+														{
+															background-color:#1A1A23;
+															width:100%;
+															font-size: 90%; 
+															height:100%;
+															clear:both;
+															padding-top:2%;
+															
+														}
+													footer p
+														{
+															color:white; 
+														}
+													#footerh1
+														{
+															width:90%;
+															margin-right:auto;
+															font-weight:bold;
+															margin-left:auto;
+															color:white;
+															text-align:center;
+															line-height:1.2em;
+														}
+													footer a:link
+														{
+															color:white;
+														}	
+													#footerleft
+														{
+															text-align:center;
+															width:80%;
+															margin-left:auto;
+															margin-right:auto;
+															
+														}
+													#footercenter
+														{
+															margin-right:auto;
+															width:320px;
+															margin-left:auto;
+															color:white;
+														}
+													#footercenterright
+														{
+															width:110px;
+															float:right;
+															margin-top:90px;
+															
+														}
+
+													#footerright
+														{
+															
+															width:95%; 
+															margin-top:30px;
+															text-align:center;
+															margin-right:auto;
+															margin-left:auto;
+														}
+													#firstname, #lastname, #email, #message
+														{
+															background-color:white;
+															color:black;	
+														}
+													.error
+														{
+															color:red;
+														}
+												}
+			
+					@media screen and (min-width: 768px) and (max-width:1167px)
+						
+						{						
+								body 
+									{
+										font-family: 'DM Serif Text', serif;
+										line-height: 1em;
+										font-size: 1em;
+										background-color:#ECEBF3;
+									}
+								head
+									{
+										width:100%; 
+										
+									}
+								#wrapper
+									{
+										width:100%;  	
+										max-width:1200px;
+										background-position:center top;
+										background-image: url("images/facebackgroundtoneddown.jpg");
+										/*background-image: url("images/facebackground.jpg");*/
+										background-repeat: no-repeat;
+										box-sizing: border-box;
+										padding-top:4%;
+										overflow:hidden;
+										
+									}
+								
+								
+								header
+									{
+										color:white; 
+										height:9%; 
+										width:34%; 
+										margin-top:50%;
+									}
+								#titleh1
+									{
+										text-align:center; 
+										color:white;
+										font-size:250%;
+										line-height:1.5em;
+									}
+								#titleh3
+									{
+										font-size:145%;
+										color:white;
+										text-align:center;
+									}
+								#titleul
+									{
+										width:100%;
+										margin-left:auto;
+										margin-right:auto;
+										color:white; 
+										text-align:center;
+									}
+								#titleul li
+									{
+										display:inline;
+										font-size:95%; 
+										text-align:left;
+										list-style-type: none;
+									}
+								#promotingH1
+									{
+										color:white;
+										font-weight:bolder;
+										width:65%; 
+										line-height:2em;
+										text-align:center;
+										margin-left:auto;
+										margin-right:auto;
+										margin-top:1%;
+										padding-bottom:2%;
+										font-size:1.4em;
+									}
+								nav
+									{
+										margin-top:5%;
+										width:100%;
+										margin-left:auto;
+										margin-right:auto;
+										
+									}
+								nav a, nav li
+									{
+										color:white;
+										list-style-type: none;
+										font-weight:bold;
+										font-size:120%;
+										padding:1%;  
+										/*display:inline;*/
+										text-align:center;
+										text-decoration:none;
+									}												
+											
+								#portfolio1
+									{
+										background-color:#e9e7ee;
+										font-size:100%;
+										line-height:130%;
+										font-weight:lighter;
+										text-align:center; 
+										width:100%;
+										padding-bottom:0%;
+										color:#2f2e32;
+									}
+								#portfolio1 p 
+									{
+										width:80%;
+										margin-left:9%;
+										text-align:center;
+										font-weight:lighter;
+									}
+								#portfolio2
+									{
+										background-color:#ECEBF3;
+										padding-top:5%;
+										padding-left:2%; 
+										padding-right:2%;
+										padding-bottom:1%;
+										 
+										width:100%;
+										margin-bottom:2%;
+									}
+							
+								#portfolio1 p 
+									{
+										width:80%;
+										margin-left:9%;
+										text-align:center;
+										font-size:1.2em;
+									}
+								#crowd
+									{
+										float:left;
+										margin-top:5%;
+										font-size:180%; 
+										width:100%;
+									}	
+								.portfoliooverlay
+									{
+										width:100%;
+										text-align:center;
+										margin-right:auto;
+										margin-left:auto%;
+										margin-bottom:5%;
+									}
+								.portfolioimage a
+									{
+										color:black;
+									}
+												
+								.portfoliooverlay p
+									{
+										font-size:1.2em;
+									}
+								.portfolioimage	img
+									{		
+										display:block;
+										margin-left:auto;
+										margin-right:auto;
+										width:75%;
+										border: 3px inset gray;
+									}	
+							
+								aside
+									{
+										width:70%;
+										padding:5%; 
+										margin-right:auto;
+										margin-left:auto;
+										text-align:center;
+										line-height:160%;
+									}
+								
+								#aboutme img
+									{
+										display:block;
+										margin-left:auto;
+										margin-right:auto;
+										width:55%;
+										border: 3px inset gray;
+									}													
+								#history
+									{
+										width:70%;
+										text-align:center;
+										margin-left:auto;
+										margin-right:auto;
+										padding:5%;
+										line-height:160%;
+										font-size:1.1em;
+									}	
+								#history h1
+									{
+										line-height:1.2em;
+										margin-left:auto;
+										margin-right:auto;
+										text-align:center;
+									}	
+								#projects
+									{
+										text-align:center;
+										width:100%;		
+									}
+	
+								.aboutoverlay
+									{
+										font-weight:bold;
+										font-size:1.1em;
+										width:40%;
+										height:5%;
+										padding:2%;
+										text-align:center;
+										margin-top:-27%;
+										margin-left:25%;
+										position:absolute;
+										border:1px solid black;
+										border-radius:10px;
+										background-color:white;
+										opacity:.5;
+									}	
+																										
+								.aboutimage	
+									{		
+										margin:5%;
+									}	
+								.aboutimage img
+									{
+										border:2px solid lightgray;
+										border-style:inset;
+										width:70%;
+										height:60%;
+									}	
+								#carpetH2
+									{
+										display:block;
+										margin-left:auto;
+										margin-right:auto;
+										width:50%;
+										text-align:center;
+									}
+								#floorimages img 
+									{
+										display:block;
+										margin-left:auto;
+										margin-right:auto;
+										width:400px;
+										border: 3px inset gray;
+										height:350px;
+									}	
+								#floorimages  
+									{
+										text-align: center;
+										font-size:1.2em;
+										text-align:center; 
+									}		
+								#gardenH2
+									{
+										display:block;
+										margin-left:auto;
+										margin-right:auto;
+										width:50%;
+										text-align:center;
+									}
+								#bathH2
+									{
+										display:block;
+										margin-left:auto;
+										margin-right:auto;
+										width:50%;
+										text-align:center;
+									}
+								#bathimages img 
+									{
+										display:block;
+										margin-left:auto;
+										margin-right:auto;
+										width:400px;
+										border: 3px inset gray;
+										height:350px;
+									}	
+								#bathimages  
+									{
+										text-align: center;
+									    font-size:1.2em;
+										text-align:center; 
+									}			
+								#gardenimages img 
+									{
+										display:block;
+										margin-left:auto;
+										margin-right:auto;
+										width:400px;
+										border: 3px inset gray;
+										height:350px;
+									}	
+								#gardenimages  
+									{
+										text-align: center;
+										font-size:1.2em;
+										text-align:center; 
+									}	
+								#p
+									{
+										width:65%;
+										line-height:1.2em;
+										text-align:center;
+										margin-left:auto;
+										margin-right:auto;
+									}
+								#codepage
+									{
+										width:94%;
+										overflow:scroll; 
+									}		
+								.collapsible
+									{
+															
+										margin-left: 43%;
+										margin-bottom:5%;
+										align-items: center;
+										appearance: none;
+										background-color: #FCFCFD;
+										border-radius: 4px;
+										border-width: 0;
+										box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+										box-sizing: border-box;
+										color: #36395A;
+										cursor: pointer;
+										display: inline-flex;
+										font-family: "JetBrains Mono",monospace;
+										height: 48px;
+										justify-content: center;
+										line-height: 1;
+										list-style: none;
+										overflow: hidden;
+										padding-left: 16px;
+										padding-right: 16px;
+										position: relative;
+										text-align: left;
+										text-decoration: none;
+										transition: box-shadow .15s,transform .15s;
+										user-select: none;
+										-webkit-user-select: none;
+										touch-action: manipulation;
+										white-space: nowrap;
+										will-change: box-shadow,transform;
+										font-size: 18px;
+									}
+								.collapsible:focus 
+									{
+										box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+									}
+								.collapsible:active 
+									{
+										box-shadow: #D6D6E7 0 3px 7px inset;
+										transform: translateY(2px);
+									}	
+								.content 
+									{
+										max-height: 0;   /* Style the collapsible content. Note: hidden by default */
+										overflow: hidden;
+										transition: max-height 3s ease-out;
+									}	
+														
+								#resume		
+									{
+										font-family: 'Fira Sans', sans-serif;
+										font-size:1.1em;
+										padding:2%;
+										line-height:1.8em;														
+										background-color:#F0EFF8;
+										height:100%;
+										width:95%;	
+										
+									}	
+								#resume h2
+									{
+										line-height:1.1em;
+									}
+							
+								#githubH3
+									{
+										border:1px solid #6769AB;
+										width:20%;
+										line-height:1.3em;
+										text-align:center;
+										float:left;
+										margin-left:38%;
+										height:75px;
+									}
+								.centered
+									{
+										float:left;
+										margin-left:34%;
+									}
+								footer 
+									{
+										background-color:#1A1A23;
+										width:100%;
+										font-size: 100%; 
+										height:100%;
+										clear:both;
+										padding-top:2%;
+															
+									}
+								footer p
+									{
+										color:white; 
+									}
+								#footerh1
+									{
+										width:90%;
+										margin-right:auto;
+										font-weight:bold;
+										margin-left:auto;
+										color:white;
+										text-align:center;
+										line-height:1.2em;
+									}
+								footer a:link
+									{
+										color:white;
+									}	
+								#footerleft
+									{
+										text-align:center;
+										width:80%;
+										margin-left:auto;
+										margin-right:auto;
+															
+									}
+								#footercenter
+									{
+										margin-right:auto;
+										width:320px;
+										margin-left:auto;
+										color:white;
+									}
+								#footercenterright
+									{
+										width:110px;
+										float:right;
+										margin-top:90px;
+															
+									}
+
+								#footerright
+									{
+															
+										width:95%; 
+										margin-top:30px;
+										text-align:center;
+										margin-right:auto;
+										margin-left:auto;
+									}
+								#firstname, #lastname, #email, #message
+									{
+										background-color:white;
+										color:black;	
+									}
+								.error
+									{
+										color:red;
+									}	
+						}
+
+
+
+@media screen and (min-width: 1168px) 
+	{		
+		body 
+			{
+				font-family: 'DM Serif Text', serif;
+				line-height: 1em;
+				font-size: 1em;
+			}
+		head
+			{
+				width:100%; 
+				
+			}
+		#wrapper
+			{
+				width:100%;  	
+				max-width:1200px;
+				background-position:center top;
+				background-image: url("images/facebackgroundtoneddown.jpg");
+				/*background-image: url("images/facebackground.jpg");*/
+				background-repeat: no-repeat;
+				box-sizing: border-box;
+				padding-top:4%;
+				overflow:hidden;
+			}
+			
+		.portfolioimage a
+			{
+				text-decoration:none;
+				color:black;
+			}
+		.portfolioimage a:hover
+			{
+				color:black;
+			}	
+																
+
+															/* /////  Index   /////  */
+
+		#header
+			{
+				color:white; 
+				height:9%; 
+				width:34%; 
+				margin-left:62%;
+				margin-top:-2%;
+				
+			}
+		#titleh1
+			{
+				text-align:center;
+				font-size:250%;
+			}
+		#titleh3
+			{
+				font-size:145%;
+				text-align:center;
+			}
+		#titleul
+			{
+				list-style-type: none;
+				width:130%;
+				margin-left:-6%;
+			}
+		#titleul li
+			{
+				display:inline;
+				font-size:95%; 
+				text-align:left;
+				
+			}
+		#promotingH1
+			{
+				color:white;
+				font-weight:bolder;
+				width:65%; 
+				line-height:2em;
+				text-align:center;
+				margin-left:33%;
+				margin-top:10%;
+				padding-bottom:2%;
+				
+			}
+														/*///////// nav ///////////*/
+		nav
+			{
+				margin-top:1%;
+				float:left; 
+				margin-left:35%;
+				width:85%;
+			}
+		nav a, nav li
+			{
+				color:white;
+				text-decoration:none;
+				font-weight:bold;
+				font-size:120%;
+				padding:1%;  
+				display:inline;
+			}
+
+
+
+														/*/////////   portfolio /////////*/
+
+		#portfolio1
+			{
+				background-color:white;
+				font-size:175%;
+				line-height:130%;
+				font-weight:lighter;
+				text-align:center; 
+				width:100%;
+				padding-bottom:9%;
+			}
+		#portfolio1 p 
+			{
+				width:80%;
+				margin-left:9%;
+				text-align:center;
+				font-weight:lighter;
+			}
+		#crowd
+			{
+				float:left;
+				margin-top:11%;
+				font-size:180%; 
+				width:100%;
+			}
+
+		#portfolio2
+			{
+				background-color:#ECEBF3;
+				padding-top:5%;
+				padding-left:2%; 
+				padding-right:2%;
+				padding-bottom:1%;
+				height:575px;  
+				width:100%;
+			}
+		.portfolioimage	
+			{		
+				width:500px;
+				height:250px;
+			}
+		.image 
+			{
+				transition: .5s ease;
+				backface-visibility: hidden;
+			}
+		.portfoliooverlay
+			{
+				border:1px solid black;
+				width:45%;
+				text-align:center;
+				margin-top:-35%;
+				margin-left:30%;
+				transition: .5s ease;
+				opacity:0;
+			}
+
+		.portfolioimage:hover .portfoliooverlay
+			{
+				opacity: 1;
+			}
+		.portfolioimage a
+			{
+				text-decoration:none;
+				color:black;
+			}
+		.portfolioimage a:hover
+			{
+				color:black;
+			}
+		.portfolioimage:hover .image 
+			{
+				opacity: 0.3;
+			}
+		#hiking
+			{
+				float:right;
+				margin-right:8%;
+			}
+		#kids
+			{
+				float:left;
+				margin-left:5%;
+			}
+
+		#court
+			{
+				float:left;
+				margin-top:5%;
+				margin-left:27%;
+			}
+
+																/*//////about //////*/
+
+		#about
+			{
+				background-color:white;
+				font-size:100%;
+				line-height:130%;
+				font-weight:lighter;
+				text-align:center; 
+				width:100%;
+				padding-bottom:9%; 
+				padding-top:9%;
+				height:700px;
+
+			}
+		#about p
+			{
+				font-size:1.1em;
+			}
+		#aboutme
+			{
+				height:65%;
+			}
+		#about h1
+			{
+				font-size:175%;
+				text-align:center;
+			}
+		#shelfimage
+			{
+				float:left;
+				margin-left:5%;
+				width:45%;
+			}
+		aside
+			{
+				width:40%;
+				float:right;
+				margin-right:1%;
+				margin-top:4%;
+				text-align:center;
+				line-height:120%;
+			}
+		#history
+			{
+				width:80%;
+				text-align:center;
+				margin-left:auto;
+				margin-right:auto;
+			}
+		#history p
+			{
+				width:65%;
+				line-height:190%;
+				margin-left:auto;
+				margin-right:auto;
+			}
+		#projects
+			{
+				float:left;
+				margin-top:7%;
+				width:100%;		
+			}
+		#projects h1	
+			{
+				font-size:175%;
+				text-align:center;
+				margin-left:3%;
+			}
+
+		.aboutimage	
+			{		
+				width:350px;
+				height:260px;
+			}
+
+		.aboutoverlay
+			{
+				
+				width:45%;
+				text-align:center;
+				margin-top:-45%;
+				margin-left:33%;
+				transition: .5s ease;
+				opacity:0;
+			}
+		#garden .aboutoverlay
+			{
+				width:90px; margin-left:90%;
+			}
+		#tile .aboutoverlay
+			{
+				width:75px; margin-left:70%; margin-top:-50%;
+			}
+		.aboutimage:hover .aboutoverlay
+			{
+				opacity: 1;
+			}
+		.aboutoverlay a
+			{
+				text-decoration:none;
+				color:black;
+			}
+
+		.aboutimage a
+			{
+				text-decoration:none;
+				color:black;
+			}
+		.aboutimage:hover .image 
+			{
+				opacity: 0.3;
+			}
+		#floor
+			{
+				margin-left:2%;
+			}
+		#tile
+			{
+				margin-left:28.75%;
+				margin-top:-16.7%;
+			}
+		#garden
+			{
+				margin-left:55%;
+				margin-top:-20.7%;
+			}
+		#cameraphotos
+			{	
+				margin-left:2%;
+			}
+
+
+																/*/////////floor //////////*/
+		#floorimages 
+			{
+			  height:auto;
+			  display: grid;
+			  grid-template-columns: 33% 33% 33%;
+			  gap: 0px;
+			  grid-template-rows: auto;
+			  width:100%;
+			}
+		#floorimages  
+			{
+			  text-align: center;
+			  font-size:1em;
+			  text-align:center; 
+			}
+		#floorimages img 
+			{
+				height:260px; 
+				width:350px;
+				border-style:inset;
+				border:3px solid gray;
+			}													
+		#carpetH2
+			{
+				margin-top:15%;
+				margin-left:40%;
+			}
+
+
+
+
+																/*/////bath //////////*/
+		#bathimages 
+			{
+			  height:auto;
+			  display: grid;
+			  grid-template-columns: 33% 33% 33%;
+			  gap: 0px;
+			  grid-template-rows: auto;
+			  width:100%;
+			}
+		#bathimages  
+			{
+			  text-align: center;
+			  font-size:1em;
+			  text-align:center; 
+			}
+		#bathimages img 
+			{
+				height:260px; 
+				width:350px;
+				border-style:inset;
+				border:3px solid gray;
+			}													
+																
+					
+		#bathH2
+			{
+				
+				margin-top:15%;
+				margin-left:20%;
+			}
+			
+			
+			
+															/*////////// Garden /////////*/
+															
+		#gardenimages 
+			{
+			  height:auto;
+			  display: grid;
+			  grid-template-columns: 33% 33% 33%;
+			  gap: 0px;
+			  grid-template-rows: auto;
+			  width:100%;
+			}
+		#gardenimages  
+			{
+			  text-align: center;
+			  font-size:1em;
+			  text-align:center; 
+			}
+		#gardenimages img 
+			{
+				height:260px; 
+				width:350px;
+				border-style:inset;
+				border:3px solid gray;
+			}													
+																
+					
+		#gardenH2
+			{
+				
+				margin-top:15%;
+				margin-left:40%;
+			}
+															
+															
+															
+															/*////////  Resume ////////*/
+
+		#resume		
+			{
+				font-family: 'Fira Sans', sans-serif;
+				padding:5%;
+				line-height:2em;
+				background-color:#F0EFF8;
+				height:2400px;
+				float:left;
+				width:80%;
+				max-width:1045px;
+			}
+		#overviewUl
+			{
+				display:inline;
+			}
+		a
+			{
+				text-decoration:none;
+				color:black;
+			}
+		a:hover
+			{
+				text-decoration:underline;
+				color:#09E5F1;
+			}
+		#linkedinH2
+			{
+				float:left;
+			}
+		#emailP
+			{
+				float:right;
+			}
+		#leftH2
+			{
+				float:left;
+				width:25%;
+				margin-left:3%;
+			}
+		#middleH2
+			{
+				float:left;
+				margin-left:9%;
+			}
+		#rightH2
+			{
+				float:right;
+				margin-right:3%;
+			}
+		#fullstackdiv	
+			{	
+				float:left;
+				width:80%;
+				padding-left:8%;
+				padding-right:8%;
+				line-height:2em;
+				
+			}
+		#specialties
+			{
+				float:left;
+				margin-left:9%;
+				width:36%;
+				padding:2%; 
+			}
+		#languagesDiv
+			{
+				float:right;
+				width:40%;
+				padding:2%;
+				margin-right:2%; 
+			}
+		#summary
+			{
+				margin-left:5%;
+				float:left;
+				width:75%; 
+				padding:3%;
+			}
+		#professionalexperienceDiv
+			{
+				width:95%;
+				float:left;
+				font-size:1em;
+				margin-left:6%;
+			}
+		.professionalexperienceUl
+			{
+				margin-left:7%;
+			}
+		.educationUl
+			{
+				margin-left:7%; 
+			}
+		#educationDiv
+			{
+				width:100%;
+				float:left;
+				margin-left:6%;
+			}
+		.centeredH2
+			{
+				text-align:center; 
+				text-decoration: underline;
+				margin-right:12%;
+			}
+
+		#p
+			{
+				margin-top:70%;
+				width:46%;
+				line-height:2.5em;
+				font-size:1.2em; 
+				text-align:center;
+				margin-left:auto;
+				margin-right:auto;
+			}
+		.collapsible
+			{
+				
+				  margin-left: 45%;
+				  
+				  margin-bottom:5%;
+				  align-items: center;
+				  appearance: none;
+				  background-color: #FCFCFD;
+				  border-radius: 4px;
+				  border-width: 0;
+				  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+				  box-sizing: border-box;
+				  color: #36395A;
+				  cursor: pointer;
+				  display: inline-flex;
+				  font-family: "JetBrains Mono",monospace;
+				  height: 48px;
+				  justify-content: center;
+				  line-height: 1;
+				  list-style: none;
+				  overflow: hidden;
+				  padding-left: 16px;
+				  padding-right: 16px;
+				  position: relative;
+				  text-align: left;
+				  text-decoration: none;
+				  transition: box-shadow .15s,transform .15s;
+				  user-select: none;
+				  -webkit-user-select: none;
+				  touch-action: manipulation;
+				  white-space: nowrap;
+				  will-change: box-shadow,transform;
+				  font-size: 18px;
+			}
+
+		.collapsible:focus {
+		  box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+		}
+
+		.collapsible:hover {
+		  box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+		  transform: translateY(-2px);
+		}
+
+		.collapsible:active {
+		  box-shadow: #D6D6E7 0 3px 7px inset;
+		  transform: translateY(2px);
+		}
+			
+
+		.active, .collapsible:hover 
+			{
+				/*background-color: #F0EFF8; /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+				
+			}
+
+
+		.content 
+			{
+				max-height: 0;   /* Style the collapsible content. Note: hidden by default */
+				overflow: hidden;
+				transition: max-height 3s ease-out;
+			}
+
+			
+			
+															/*///////code/////////*/
+		#codeH2
+			{
+				line-height:1.3em;
+				margin-top:0;
+				padding-top:0;
+				height:4%;
+			}
+		#githubH3
+			{
+				border:1px solid #6769AB;
+				width:20%;
+				line-height:1.3em;
+				text-align:center;
+				float:left;
+				margin-left:38%;
+				height:75px;
+			}
+		.centered
+			{
+				float:left;
+				margin-left:34%;
+			}
+			
+														/*/////////// code page ///////////*/
+														
+		#codeH2
+			{
+					width:45%;
+					float:left;
+					margin-left:33%;
+					margin-top:10%;
+					text-align:center;
+					line-height:120%;	
+					
+			}
+		#codepage
+			{
+				width:94%;
+				overflow:scroll; 
+			}	
+															
+															
+															/*////// footer    //////*/
+
+
+		footer 
+			{
+				background-color:#1A1A23;
+				width:100%;
+				max-width:1200px;
+				font-size: 90%; 
+				height:500px;
+				clear:both;
+				margin-top:-1%;
+				padding-top:2%;
+				
+			}
+		footer p
+			{
+				color:white;
+			}
+		#footerh1
+			{
+				
+				font-weight:bold;
+				margin-left:32%;
+				color:white;
+			}
+		footer a:link
+			{
+				color:white;
+			}
+		footer a:hover
+			{
+				/*color:#093DFB;*/
+			}
+		.footeremail:hover
+			{
+				/*color:#093DFB;*/
+			}
+		#footerleft
+			{
+				float:left;
+				width:340px;
+				margin-left:10%;
+			}
+		#footercenter
+			{
+				float:left;
+				width:320px;
+				margin-left:09%;
+				color:white;
+			}
+		#footercenterright
+			{
+				width:110px;
+				float:right;
+				margin-top:90px;
+				
+			}
+
+		#footerright
+			{
+				float:right;
+				width:250px; 
+				margin-top:30px;
+				text-align:center;
+				margin-right:20px;
+			}
+		#firstname, #lastname, #email, #message
+			{
+				background-color:white;
+				color:black;	
+			}
+		.error
+			{
+				color:red;
+			}
+	
+}
+

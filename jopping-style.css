@@ -1,0 +1,55 @@
+html {
+    background-color: lightgrey;
+}
+
+h1 {
+    font-family: 'Tangerine', cursive;
+    font-size: 5em;
+    color: darkslategray;
+}
+
+div {
+    background: darkslategray url(MV5BMzM1YjQ3NTgtZTk4YS00NjU4LTlmYTYtMWIzN2U5Y2UyMDE1XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_.jpg) fixed;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-blend-mode: exclusion;
+    border-radius: 20px;
+    height: 25em;
+    width: 90%;
+    margin:auto;
+    font-family: 'Playfair Display', serif;
+    color:lightgray;
+    text-decoration-color: azure;
+    position: relative;
+}
+blockquote {
+	width:95%;
+	height:25%;
+	top:37%;
+	position:relative;
+    margin-left: auto;
+    margin-right: auto; 
+	margin-top:auto;
+	margin-bottom:auto;
+    border:1px solid red;
+    font-size: 2em;
+}
+
+footer {
+    text-transform: uppercase;
+    color: darkslategrey;
+    
+}
+
+h1, div, footer {
+    text-align: center;
+}
+
+@media screen and (min-width: 720px) {
+    div {
+        width: 60%;
+    }
+    blockquote {
+       /* margin-left: 30%;*/
+    }
+}
